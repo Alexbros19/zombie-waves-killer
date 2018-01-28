@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerSkinMaterials
+  - Syringe
+  - InventoryButton2
+  - InventoryTextLabel2
+  - InventoryTextLabel
+  - InventoryButton
+  - InventoryTextLabel3
+  - InventoryButton3
+  - WeaponBackground2
+  - WeaponBackground3
+  - OpenWeapon3
+  - OpenWeapon2
+  - WeaponBackground4
+  - WeaponBackground5
+  - WeaponBackground6
+  - InventoryTextLabel4
+  - InventoryTextLabel5
+  - InventoryTextLabel6
+  - OpenWeapon4
+  - OpenWeapon5
+  - OpenWeapon6
+  - InventoryButton4
+  - InventoryButton5
+  - InventoryButton6
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Zombie
+  - Floor
+  - Obstacle
+  - Player
+  - Shell
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

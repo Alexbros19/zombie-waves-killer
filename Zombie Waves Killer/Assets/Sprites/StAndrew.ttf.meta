@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9831f6a6f23e9414d9bc468d3cb8031d
+timeCreated: 1508437875
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: St. Andrew
+  fontNames:
+  - St. Andrew
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
